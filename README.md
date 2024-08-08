@@ -1,6 +1,6 @@
 <ROS2 assignment1>
 
-This package represents a ROS2 package that runs two turtlesim nodes, one drawing a circle and the other drawing a square.
+This package represents a ROS2 tutorial that runs two turtlesim nodes, one drawing a circle and the other drawing a square.
 
 --- 
 
